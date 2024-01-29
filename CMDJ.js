@@ -64,6 +64,8 @@ t4.remove();
 t5.remove();
 t6.remove();
 seconds.innerHTML = 'Game Over';
+score.style.display = 'block';
+seconds.style.display = 'block';
 clearInterval(decay);
 
 }
