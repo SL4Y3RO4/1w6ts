@@ -1,0 +1,90 @@
+*{
+    font-family: Arial;
+    cursor:url('p0wer.ani'), auto;
+}
+
+#t1 {
+
+background: black;
+width: 31px;
+height: 31px;
+border-radius: 45px;
+position: absolute;
+
+}
+
+#t2 {
+
+background: black;
+width: 31px;
+height: 31px;
+border-radius: 45px;
+position: absolute;
+
+}
+
+#t3 {
+
+background: black;
+width: 31px;
+height: 31px;
+border-radius: 45px;
+position: absolute;
+    
+}
+
+#t4 {
+
+background: black;
+width: 31px;
+height: 31px;
+border-radius: 45px;
+position: absolute;
+        
+}
+
+#t5 {
+
+background: black;
+width: 31px;
+height: 31px;
+border-radius: 45px;
+position: absolute;
+    
+}
+
+#t6 {
+
+background: black;
+width: 31px;
+height: 31px;
+border-radius: 45px;
+position: absolute;
+    
+}
+
+
+#block {
+
+position: absolute;
+left:40%;
+top:40%;
+height: 400px;
+width: 400px;
+
+}
+
+#stats {
+
+position: absolute;
+left:45%;
+
+}
+
+
+#hitbox {
+
+    position: absolute;
+    height: 33px;
+    width: 33px;
+}
